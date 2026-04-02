@@ -2,7 +2,7 @@
 \
 ***intro to me:***
 \
-Name: File/Sage.
+Name: File
 \
 Age: 15
 \
