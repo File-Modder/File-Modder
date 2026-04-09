@@ -1,4 +1,4 @@
-# Hiya, wlecome :wave:
+# Hiya, welcome :wave:
 \
 ***intro to me:***
 \
