@@ -4,8 +4,6 @@
 \
 Name: File
 \
-Age: 15
-\
 Current Projects: Movementum and Corvid Skies
 \
 Favorite Modder: DoctorR4T
